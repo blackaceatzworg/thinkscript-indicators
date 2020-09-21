@@ -102,8 +102,10 @@ plot bullish = (priceC > VWAP) and(FullK crosses above OverSold);
 plot bearish = (PriceC < VWAP) and(FullK crosses below OverBought);
 
 bullish.SetPaintingStrategy(PaintingStrategy.BOOLEAN_ARROW_UP);
-bullish.SetDefaultColor(Color.PINK);
+bullish.SetDefaultColor(color.green);
 bullish.SetLineWeight(2);
 bearish.SetPaintingStrategy(PaintingStrategy.BOOLEAN_ARROW_DOWN);
-bearish.SetDefaultColor(Color.PINK);
+bearish.SetDefaultColor(color.red);
 bearish.SetLineWeight(2);
+
+addlabel(yes, "vwap + stochastics", color.magenta);

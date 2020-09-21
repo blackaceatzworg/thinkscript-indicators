@@ -10,16 +10,20 @@ Collection of indicators to use on the Think or Swim trading platform
 
 3. From the Studies tab, press Create, give the study a name
 
-4. Paste the code from `vwap-rejection.ts` or `vwap-stochastics.ts` in the study window
+4. Paste the code from `vwap-rejection.ts` or `vwap-stochastics.ts` or `vwap-hull.ts` in the study window
 
 5. Press Ok, press Ok
 
 #### VWAP Rejection
 
-![Inside Bar](https://github.com/iniguezdj/thinkscript-indicators/blob/master/images/vwap-rejection.PNG)
+![VWAP Rejection](https://github.com/iniguezdj/thinkscript-indicators/blob/master/images/vwap-rejection.PNG)
 
 #### VWAP + Stochastics
 
-![Inside Bar](https://github.com/iniguezdj/thinkscript-indicators/blob/master/images/vwap-stochastics.PNG)
+![VWAP Stochastics](https://github.com/iniguezdj/thinkscript-indicators/blob/master/images/vwap-stochastics.PNG)
+
+#### VWAP + Hull
+
+![VWAP Hull](https://github.com/iniguezdj/thinkscript-indicators/blob/master/images/vwap-hull.PNG)
 
 ### DO NOT USE REAL MONEY TO TRADE THESE INDICATORS. THERE IS ABSOLUTELY NO GUARANTEE THESE INDICATORS WORK.
