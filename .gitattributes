@@ -1,1 +1,2 @@
-*.ts linguist-language=Thinkscript
+# direct thinkscript
+*.* linguist-language=Thinkscript
