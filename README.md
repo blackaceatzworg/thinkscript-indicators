@@ -27,3 +27,7 @@ Collection of indicators to use on the Think or Swim trading platform
 ![VWAP Hull](https://github.com/iniguezdj/thinkscript-indicators/blob/master/images/vwap-hull.PNG)
 
 ### DO NOT USE REAL MONEY TO TRADE THESE INDICATORS. THERE IS ABSOLUTELY NO GUARANTEE THESE INDICATORS WORK.
+
+![VWAP Internals](https://github.com/iniguezdj/thinkscript-indicators/blob/master/images/vwap-internals.PNG)
+
+### DO NOT USE REAL MONEY TO TRADE THESE INDICATORS. THERE IS ABSOLUTELY NO GUARANTEE THESE INDICATORS WORK.
